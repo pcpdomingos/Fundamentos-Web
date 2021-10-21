@@ -1,0 +1,73 @@
+/* Estilos da página index.html */
+.center{
+    text-align: center;
+    font-size: 15px;
+}
+
+.justify{
+    text-align: justify;
+}
+
+.container{
+    display: flex;
+    flex-flow: row;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.fonte {
+    font-size: 20px;
+    padding: 30px;
+}
+.fonte2{
+    font-size: 20px;
+}
+.fonte3{
+    font-size: 30px;
+    padding: 15px;
+}
+
+#menu li{
+    display: inline;
+    font-size: 20px;
+    padding: 30px;
+}
+
+#menu li a{
+        text-decoration: none;
+        color:black;
+}
+
+#menu li a:hover {
+    color:red
+}
+
+.p30{
+    padding: 30px;
+    font-size: 30px;
+}
+
+.wh{
+    width: 600px;
+    height: 300px;
+}
+
+.tm-social{
+    width: 266px;
+    height: 88px;
+}
+
+.mb-50{
+    margin-bottom: 50px;
+}
+
+
+
+
+
+/* Estilos da página contato.html */
+
+.ml-50{
+    margin-left: 50px;
+}
